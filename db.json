@@ -1,6 +1,6 @@
 {
   "cards":{
-   "get-all":[
+   "get_all":[
     {
         "id": 238,
         "cardName": "Visa",
